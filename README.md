@@ -1,6 +1,6 @@
 ## Hi there 👋
-# - 🔭 I’m currently working on Computer_network_research 🖥️
-# - 🌱 I’m currently learning CPP😀
+### - 🔭 I’m currently working on Computer_network_research 🖥️
+### - 🌱 I’m currently learning CPP😀
 
 <!--
 **ADAM-CHENG666/ADAM-CHENG666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
