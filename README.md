@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Adam Cheng
+## Hi there 👋 I'm Adam Huang
 
 I'm interested in **AI applications, RAG systems, agents, and computer networks**.
 
